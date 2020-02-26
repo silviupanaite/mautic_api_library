@@ -7,9 +7,9 @@ require "mautic_api/version"
 Gem::Specification.new do |s|
   s.name        = "mautic_api"
   s.version     = MauticApi::VERSION
-  s.authors     = ["Marcel"]
-  s.email       = ["marcel@trampos.co"]
-  s.homepage    = "http://trampos.co"
+  s.authors     = ["Silviu"]
+  s.email       = ["silviu@messbusters.org"]
+  s.homepage    = "https://messbusters.co"
   s.summary     = ""
   s.description = "This gem allows simple integration with Mautic Api."
   s.license     = "MIT"
